@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=rotate_led.X
+PROJECTNAME=2_rotate_led.X
 
 # Active Configuration
 DEFAULTCONF=default
